@@ -45,7 +45,7 @@ Below you'll find multiple exercises, for each exercise do the following:
 12. What’s for each type the lowest productpriceof products for Youth? Show producttypename and lowest. 
     > Hint: products for youth contain `Y` in the `M_F` field
 13. Give for each purchased productId: productname, the least and the most ordered. Order by productname.
-14. Give a summary for each employee with orderID, employeeIDand employeename. 
+14. Give a summary for each employee with orderID, employeeID and employeename. 
     > Make sure that the list also contains employees who don’t have orders yet. 
 
 ## Deep Dive
